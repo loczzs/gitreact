@@ -1,0 +1,14 @@
+var modal = funtion(Component){
+    //...
+    return <div>
+    
+        <body>
+        
+        <Component/>
+        </body>
+    
+    </div>
+
+}
+var themKhoaHoc = newmodal(<formthemKhoaHoc/>)
+<themKhoaHoc/>
